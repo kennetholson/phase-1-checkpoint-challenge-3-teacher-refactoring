@@ -5,10 +5,10 @@ class ApprenticeTeacher < Instructor
   ONE = '.'
   TWO = 'crazy'
   THREE = '.'
+
   def initialize(options={})
     super
     @target_raise = 800
-    @phase = 3
   end
 
   include Attend_training_sessionable
