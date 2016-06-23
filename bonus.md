@@ -3,6 +3,7 @@
 Edit this file to answer the following questions. Give examples. You may need to do a bit of research. :)
 
 1. Why is Hash.fetch useful?
+  It allows for either a value passed or a default
 
 2. What is the disadvantage of single inheritance, and what's a possible solution to that problem?
 
